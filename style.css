@@ -1,0 +1,9 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+.showCase {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  vertical-align: auto;
+  margin: 20px;
+}
